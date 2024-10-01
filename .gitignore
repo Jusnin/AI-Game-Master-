@@ -31,6 +31,7 @@ migrate_working_dir/
 .pub/
 /build/
 /assets/images/
+echo "/assets/savvy-pad-432913-c1-1e0bd89c74ee.json" >> .gitignore
 
 
 # Symbolication related
